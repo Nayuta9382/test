@@ -2,3 +2,6 @@
 Notukitaira Kaji
 Banana
 カレー
+# 私の好きな食べ物
+ジャガイモ
+じゃがバター
